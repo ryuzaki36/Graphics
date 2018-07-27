@@ -1,0 +1,20 @@
+body {
+	background-color: #FF530D;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+button {
+	height:45px;
+	width:120px;
+	background-color:rgb(232, 44, 12);
+	color:#fff;
+	border:1px solid #fff;
+	cursor:pointer;
+
+}
+
+h1 {
+	color:#fff;
+	text-align: center;
+}
